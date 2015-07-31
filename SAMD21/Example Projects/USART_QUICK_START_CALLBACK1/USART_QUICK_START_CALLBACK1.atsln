@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "USART_QUICK_START_CALLBACK1", "USART_QUICK_START_CALLBACK1\USART_QUICK_START_CALLBACK1.cproj", "{FEA44204-B683-48A9-A5C2-B77B9891A23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA44204-B683-48A9-A5C2-B77B9891A23B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FEA44204-B683-48A9-A5C2-B77B9891A23B}.Debug|ARM.Build.0 = Debug|ARM
+		{FEA44204-B683-48A9-A5C2-B77B9891A23B}.Release|ARM.ActiveCfg = Release|ARM
+		{FEA44204-B683-48A9-A5C2-B77B9891A23B}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
