@@ -1,0 +1,7 @@
+SAMD21 useful links
+
+Xplained Pr Evaluation Kit:
+http://www.atmel.com/tools/atsamd21-xpro.aspx?tab=documents
+
+microcontroller chip:
+http://www.atmel.com/devices/ATsamd21j18a.aspx
